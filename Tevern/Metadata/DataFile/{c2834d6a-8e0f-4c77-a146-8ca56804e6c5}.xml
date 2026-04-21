@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{c2834d6a-8e0f-4c77-a146-8ca56804e6c5}">
+		<property name="assetPath">
+			<value>dżwięki — kopia/hodzenie/drzewo/hodzenie_drzewo_3.flac.reapeaks</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7e66f9ef-ba94-47b2-903f-ab47e713b7f6}</destination>
+		</relationship>
+	</object>
+</objects>

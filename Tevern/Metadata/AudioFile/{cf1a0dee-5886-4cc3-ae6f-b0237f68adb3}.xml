@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{cf1a0dee-5886-4cc3-ae6f-b0237f68adb3}">
+		<property name="assetPath">
+			<value>dżwięki — kopia/hodzenie/Kamień/hodzenie_kamień_4.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.13471655328798185</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7e66f9ef-ba94-47b2-903f-ab47e713b7f6}</destination>
+		</relationship>
+	</object>
+</objects>

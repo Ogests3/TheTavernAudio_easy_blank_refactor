@@ -1,0 +1,1507 @@
+<REAPER_PROJECT 0.1 "6.81/win64" 1776785738
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3198 8 1 8 1 0 0 0
+  TIMEMODE 3 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 211.80484109711938
+  ZOOM 6.51071048639386 0 0
+  VZOOMEX 5.04166651 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 12.22150817062495 222.68165462532392
+  SELECTION2 12.22150817062495 222.68165462532392
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 0.72459208542817 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERFXLIST
+    SHOW 0
+    LASTSEL 0
+    DOCKED 0
+  >
+  <MASTERPLAYSPEEDENV
+    EGUID {CADA892B-8110-48CA-8DF6-DD90278B0C60}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {A80C4E4E-8BAD-456D-B15D-CA09D6358E92}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {579B4986-4A37-4D3A-94E8-05D5034D6BED}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.64017302943656 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {579B4986-4A37-4D3A-94E8-05D5034D6BED}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 1 0 0
+      <VST "VST: ReaGate (Cockos)" reagate.dll 0 "" 1919248244<56535472656774726561676174650000> ""
+        dGdlcu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAFwAAAAAAAAAAAAQAA==
+        776t3g3wrd6c0QczppvEOwrXozwAAAAAAAAAAAAAgD8AAAAAAAAAAAAAAACc0QczAACAP5zRBzMAAIA/AAAAAAAAAAAAAAAALBYLPwAAAAAAAAAAAAAAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {56DEA50F-BF36-4C82-B023-798ADD8FF278}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0.40959495700525
+      SNAPOFFS 0
+      LENGTH 0.47094398140251
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.185851 1 1 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {FD3C8EEC-8BBB-406D-86A5-6CC4D835BEF0}
+      IID 98
+      NAME shop-door-opening-and-closing_gje2er4_.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.25645068449263
+      PLAYRATE 1.01334234082081 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8715C4AB-41AE-4CB4-85D5-334F4658A91A}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\shop-door-opening-and-closing_gje2er4_.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 0.69468748214547
+      SNAPOFFS 0
+      LENGTH 0.43305193692185
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.185851 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {1D95C9D9-9723-4564-BBB5-C7F61FDB86D8}
+      IID 98
+      NAME shop-door-opening-and-closing_gje2er4_.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.02988831883625
+      PLAYRATE 1.01334234082081 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {889658C2-5EDB-4B33-AB87-3C4A63E086A4}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\shop-door-opening-and-closing_gje2er4_.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 1.59507463432882
+      SNAPOFFS 0
+      LENGTH 0.43305193692185
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.037892 1 1 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {4C3A9C20-567C-4A5A-9692-BB2E92F43FA0}
+      IID 98
+      NAME shop-door-opening-and-closing_gje2er4_.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.02988831883625
+      PLAYRATE 1.01334234082081 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B270ACB1-5F87-4BF0-97A7-15757DA4381F}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\shop-door-opening-and-closing_gje2er4_.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 1.99023452677
+      SNAPOFFS 0
+      LENGTH 0.64596913924176
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.037892 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {0AA87315-D57B-4796-9E0C-3577681A8B55}
+      IID 98
+      NAME shop-door-opening-and-closing_gje2er4_.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 2.7705801105505
+      PLAYRATE 1.01334234082081 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CA9D2358-CD35-4076-BACC-89942C026F75}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\shop-door-opening-and-closing_gje2er4_.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 39
+      SNAPOFFS 0
+      LENGTH 0.07798401807422
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8BB48523-7995-41E8-B4D3-17F373A3CCFE}
+      IID 13
+      NAME 9d0725c0ca5ef8b.mp3
+      VOLPAN 0.65035 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {766ED9F8-549C-468F-9E93-74E1D9BB9A11}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\9d0725c0ca5ef8b.mp3" 1
+      >
+      SM 0 4 -0.236641221 + 0.190386619 4.24940647
+    >
+    <ITEM
+      POSITION 39.07798401807422
+      SNAPOFFS 0
+      LENGTH 0.11240260045286
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7038085B-A135-44FD-9A5C-CD5439834C6B}
+      IID 13
+      NAME 9d0725c0ca5ef8b.mp3
+      VOLPAN 0.65035 0 1 -1
+      SOFFS 4.07798401807422
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {48908400-1AC9-4E5A-AC70-4D109D222058}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\9d0725c0ca5ef8b.mp3" 1
+      >
+      SM -0.077984018 4 -0.236641221 + 0.1124026 4.24940647
+    >
+  >
+  <TRACK {E29BA176-BAB6-48CA-B0FC-A8E2FA1461D7}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E29BA176-BAB6-48CA-B0FC-A8E2FA1461D7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 12.2020933514286
+      SNAPOFFS 0
+      LENGTH 106.65969012027858
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.01 5.38415 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F40BA91E-FF6D-49C1-A4A7-9F34BE867CF3}
+      IID 122
+      NAME kaazoom-just-lute-medieval-lute-music-363314.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 12.19851849650146
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1B31A738-7B53-4DF0-BDCD-64CADBE67D15}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\kaazoom-just-lute-medieval-lute-music-363314.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 113.47763307234423
+      SNAPOFFS 0
+      LENGTH 12.19851849650134
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 5.38415 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EFB7BD81-09C6-412F-B8A4-5C5910B662AF}
+      IID 122
+      NAME kaazoom-just-lute-medieval-lute-music-363314.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00790C73-F91D-4E81-8226-AD0AB418312F}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\kaazoom-just-lute-medieval-lute-music-363314.mp3" 1
+      >
+    >
+  >
+  <TRACK {9CF97C17-1C05-41FC-8B1B-90F9028FF569}
+    NAME jumping-on-concrete
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.20516320079248 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9CF97C17-1C05-41FC-8B1B-90F9028FF569}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.21417177127842
+      SNAPOFFS 0
+      LENGTH 0.43093172106171
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DEC1E8FB-309F-4E16-9F69-BAEB258B87A7}
+      IID 99
+      NAME freesound_community-wood-break-40011.mp3
+      VOLPAN 0.807143 0 1 -1
+      SOFFS 0.05765089808665
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A626F7EA-C8B1-4DCC-A0E8-AF315990B551}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\freesound_community-wood-break-40011.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 0.77710059608877
+      SNAPOFFS 0
+      LENGTH 0.50987116546041
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E67C4317-68F4-4113-A11A-DB75C66665F4}
+      IID 99
+      NAME freesound_community-wood-break-40011.mp3
+      VOLPAN 0.807143 0 1 -1
+      SOFFS 0.620579722897
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F241A5B9-54C3-4FE9-83C5-160EEED3A26B}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\freesound_community-wood-break-40011.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 1.60272953914394
+      SNAPOFFS 0
+      LENGTH 0.41993196241599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {93EF7508-67FE-4FDF-B59E-EE5E3198746C}
+      IID 99
+      NAME freesound_community-wood-break-40011.mp3
+      VOLPAN 0.807143 0 1 -1
+      SOFFS 1.44620866595217
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1FCF25CD-4BA2-4F6C-A105-8C67587A5E4A}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\freesound_community-wood-break-40011.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 2.36874703890803
+      SNAPOFFS 0
+      LENGTH 0.41678007696386
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AA527C7C-3437-48ED-B95D-256A2DF2EC24}
+      IID 99
+      NAME freesound_community-wood-break-40011.mp3
+      VOLPAN 0.807143 0 1 -1
+      SOFFS 2.21222616571626
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EF92415C-F311-4DAC-927D-89253432E1C0}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\freesound_community-wood-break-40011.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 2.95764098644609
+      SNAPOFFS 0
+      LENGTH 0.4147223950355
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C963EFDE-C51E-4900-B05E-CC9541F64B01}
+      IID 99
+      NAME freesound_community-wood-break-40011.mp3
+      VOLPAN 0.807143 0 1 -1
+      SOFFS 2.80112011325432
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DCC88B58-8E45-4963-A519-F3C7FE6AE006}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\freesound_community-wood-break-40011.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 3.53351070378081
+      SNAPOFFS 0
+      LENGTH 0.41183103108896
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {860FF94D-0567-455C-8572-592F8D7F201D}
+      IID 99
+      NAME freesound_community-wood-break-40011.mp3
+      VOLPAN 0.807143 0 1 -1
+      SOFFS 3.37698983058904
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AF1359F7-F317-4DFB-AB59-9A9E4713C747}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\freesound_community-wood-break-40011.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 40.10927039770198
+      SNAPOFFS 0
+      LENGTH 0.14940291823804
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8317EBE9-C971-4D3F-B612-750BD88A6E46}
+      IID 33
+      NAME jumping-on-concrete.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.10927039770198
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D331F981-0898-42FC-BF12-DF2266283822}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\jumping-on-concrete.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 40.98620056996874
+      SNAPOFFS 0
+      LENGTH 0.17958021154983
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E6F896C0-3025-4E5F-8F87-6191ED977C53}
+      IID 33
+      NAME jumping-on-concrete.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.98620056996874
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06B83486-1012-4C6E-9EA8-5F1209FB717B}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\jumping-on-concrete.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 41.97355898615056
+      SNAPOFFS 0
+      LENGTH 0.16239447634569
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {84FF5A01-2160-4CC5-9781-510C12EC1FC8}
+      IID 33
+      NAME jumping-on-concrete.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 2.97355898615056
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {05E3E71E-B68D-456E-8EC5-75638DE227B7}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\jumping-on-concrete.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 42.82017552283278
+      SNAPOFFS 0
+      LENGTH 0.12991558107655
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {38F46548-162E-47E6-A76E-16F19A9B7520}
+      IID 33
+      NAME jumping-on-concrete.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.82017552283278
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D0FD83C4-2B25-4A7B-97D4-EF3E33AC7A43}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\jumping-on-concrete.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 43.88981380702976
+      SNAPOFFS 0
+      LENGTH 0.14940291823804
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0C29B966-6F3A-4C3A-A1D1-93B12F50E753}
+      IID 33
+      NAME jumping-on-concrete.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.88981380702976
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C22D090C-5408-4742-B16A-5A21A3F8C57F}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\jumping-on-concrete.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 44.97677416870361
+      SNAPOFFS 0
+      LENGTH 0.15806395697648
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ECB015F0-17F2-41CA-AEC2-03FF6C9824DF}
+      IID 33
+      NAME jumping-on-concrete.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 5.97677416870361
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B09E1AB5-9BCE-4FC8-9C1D-CB781EF1CC21}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\jumping-on-concrete.mp3" 1
+      >
+    >
+  >
+  <TRACK {6C6FC9B5-A260-43DF-B11B-58AE0325172F}
+    NAME freesound_community-lady-laugh-44816
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6C6FC9B5-A260-43DF-B11B-58AE0325172F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 39.5
+      SNAPOFFS 0
+      LENGTH 0.7914171110754
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.107998 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A596D13C-29FA-48FA-A10F-C05A551D678A}
+      IID 14
+      NAME wood-walk.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {638EC01E-C2DE-4BCF-87C9-4220C506CD75}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\wood-walk.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 44.36798327618683
+      SNAPOFFS 0
+      LENGTH 0.7085828889246
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.118154 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3BB5CE48-AB04-4B8F-B2ED-7032F8E4473B}
+      IID 14
+      NAME wood-walk.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.7914171110754
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8450DF49-0599-42F5-9F80-F8F68D83B676}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\wood-walk.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 49.60113002158322
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D364E7EC-9503-4620-9BEA-C034D4EDC25F}
+      IID 14
+      NAME wood-walk.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5ED67EED-2AE5-4A4C-BD93-FE391D101631}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\wood-walk.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 55.03336387142405
+      SNAPOFFS 0
+      LENGTH 0.59672325039273
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.141555 0 1 0 0 0
+      FADEOUT 1 0.092878 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {848CDF3B-97E4-419E-887E-493723979B0D}
+      IID 14
+      NAME wood-walk.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.14308775411013
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9EA9B50D-3F8E-45D6-9BE3-4654BDA795BC}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\wood-walk.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 59.92521843777286
+      SNAPOFFS 0
+      LENGTH 0.58178095340858
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0630A166-0210-490B-8538-71BF40C3DB9E}
+      IID 14
+      NAME wood-walk.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.73981100450286
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0DDEA547-BA99-4D97-967A-947AA0F69014}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\wood-walk.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 65.04460112348671
+      SNAPOFFS 0
+      LENGTH 0.70045824916377
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {96E60FA8-61CF-4722-851D-6FA550530D58}
+      IID 14
+      NAME wood-walk.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 5.31462930821286
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {25AEF3F1-B15A-496C-8292-CD21A91A1EF7}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\wood-walk.mp3" 1
+      >
+    >
+  >
+  <TRACK {D6C1AD3C-A2E0-4823-81D3-28DFBD712658}
+    NAME 533428__mcmikai__fire-in-the-stove-2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D6C1AD3C-A2E0-4823-81D3-28DFBD712658}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 39
+      SNAPOFFS 0
+      LENGTH 3.14308775411013
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A113D682-2E57-479E-8E77-4A0DA391A2EF}
+      IID 16
+      NAME skrip-pola-zvuk_001.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6ABFCCFB-A358-43F7-893F-E1E3FE3DB9D0}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\skrip-pola-zvuk_001.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 42.14308775411013
+      SNAPOFFS 0
+      LENGTH 3.15348820960869
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E3F6DB99-6D7C-4BDA-8CE4-0A9C0CC5F22C}
+      IID 16
+      NAME skrip-pola-zvuk_001.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.14308775411013
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {64E3DF7D-35EA-4635-BDE7-9FDF8B97555B}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\skrip-pola-zvuk_001.mp3" 1
+      >
+    >
+  >
+  <TRACK {C415AC42-685A-4A40-90FC-F2429AF67CA4}
+    NAME people_ambient_t3st
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 2 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C415AC42-685A-4A40-90FC-F2429AF67CA4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 39
+      SNAPOFFS 0
+      LENGTH 3.14308775411013
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 2.559555 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {273DF69F-0B0F-4C04-B7CA-F2CC962F7416}
+      IID 19
+      NAME b49a813dace8404.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {282D7A07-08D3-4777-8371-3579451BE1C2}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\b49a813dace8404.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 42.14308775411013
+      SNAPOFFS 0
+      LENGTH 9.5698374159579
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {52369D3B-9057-4031-9A3A-846B706FD962}
+      IID 19
+      NAME b49a813dace8404.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.14308775411013
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EB0199ED-9481-454C-9080-00F9096A748F}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\b49a813dace8404.mp3" 1
+      >
+    >
+  >
+  <TRACK {64FCF1B0-7192-4746-B20D-35E6EE4B7377}
+    NAME "ES_Doors, Swinging, Metal, Swing, Saloon, Open, Close - Epidemic Sound"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {64FCF1B0-7192-4746-B20D-35E6EE4B7377}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS guitar/distortion ""
+        50 10 -34 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      WET 0.98996 0
+      FLOATPOS 0 0 0 0
+      FXID {E6823B1B-92AC-4E93-B61A-2C2DA9FB4A3E}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 2.5
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.152453 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {429C1419-13F5-483F-97ED-4912BF5CCA44}
+      IID 6
+      NAME "ES_Doors, Swinging, Metal, Swing, Saloon, Open, Close - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D936F980-D496-4CE4-95BD-45E2B650C005}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\ES_Doors, Swinging, Metal, Swing, Saloon, Open, Close - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 6.34754744047538
+      SNAPOFFS 0
+      LENGTH 21.65245255952462
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.152453 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DEB1213E-7A29-41EC-8805-497B76A0D1A6}
+      IID 6
+      NAME "ES_Doors, Swinging, Metal, Swing, Saloon, Open, Close - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 6.34754744047538
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7C1A21D0-0AFF-4B6F-B849-17C0C1B76EAF}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\ES_Doors, Swinging, Metal, Swing, Saloon, Open, Close - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 42.34026084579954
+      SNAPOFFS 0
+      LENGTH 0.09728647240235
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DF4BAB20-C810-4E8F-8EA8-46EC662F5EF4}
+      IID 20
+      NAME c042d9d2c8f0848.mp3
+      VOLPAN 0.631579 0 1 -1
+      SOFFS 3.41695002865417
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {702498A4-1B90-412E-8BD0-5EEB317A95CB}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\c042d9d2c8f0848.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 42.95545268050819
+      SNAPOFFS 0
+      LENGTH 0.1397693148867
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AEC828F5-4F26-488E-AE8C-3D445CBBC062}
+      IID 20
+      NAME c042d9d2c8f0848.mp3
+      VOLPAN 0.631579 0 1 -1
+      SOFFS 3.97469689143969
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D4AC57D7-CFBE-400C-B30E-3436A5E55B6A}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\c042d9d2c8f0848.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 43.52801028688851
+      SNAPOFFS 0
+      LENGTH 0.09704949566827
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D77CBE8D-84A7-4B06-BE1D-C51E251386E1}
+      IID 20
+      NAME c042d9d2c8f0848.mp3
+      VOLPAN 0.631579 0 1 -1
+      SOFFS 4.54725449782001
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {71A3D148-0641-4880-8932-641E3FECDDB7}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\c042d9d2c8f0848.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 44.06593749284129
+      SNAPOFFS 0
+      LENGTH 0.13512135056721
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3F76A687-1D33-47A2-BCA5-37CCC4C74227}
+      IID 20
+      NAME c042d9d2c8f0848.mp3
+      VOLPAN 0.631579 0 1 -1
+      SOFFS 5.08518170377279
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {047DE1F5-B262-4569-9BB0-DCA3BA075FDE}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\c042d9d2c8f0848.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 44.56983276053271
+      SNAPOFFS 0
+      LENGTH 0.1127655779636
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {036DF712-8013-49FA-A5D3-B71DDB9DFC4C}
+      IID 20
+      NAME c042d9d2c8f0848.mp3
+      VOLPAN 0.631579 0 1 -1
+      SOFFS 5.6104109997276
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E094B294-2B51-4EF5-A004-C76FA1CFB44D}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\c042d9d2c8f0848.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 45.11232662208734
+      SNAPOFFS 0
+      LENGTH 0.15238591616703
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0AE7453C-BBCD-42B1-B388-868FC0768207}
+      IID 20
+      NAME c042d9d2c8f0848.mp3
+      VOLPAN 0.631579 0 1 -1
+      SOFFS 6.15290486128222
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AF24A26C-1FDB-48A5-865A-4E8949BEF377}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\c042d9d2c8f0848.mp3" 1
+      >
+    >
+  >
+  <TRACK {EB47EC12-A87C-46C9-AB82-06B692E6A9C6}
+    NAME "ES_Doors, Swinging, Metal, Swing, Saloon, Open, Close, Perspective - Epidemic Sound"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EB47EC12-A87C-46C9-AB82-06B692E6A9C6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 28
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BC9AFBA9-0905-449E-9857-3110402414A9}
+      IID 7
+      NAME "ES_Doors, Swinging, Metal, Swing, Saloon, Open, Close, Perspective - Epidemic Sound.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1EA0C4CC-D64D-4CD1-9665-1C2312350B32}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\ES_Doors, Swinging, Metal, Swing, Saloon, Open, Close, Perspective - Epidemic Sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 39
+      SNAPOFFS 0
+      LENGTH 3.14308775411013
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 2.559555 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6561126E-E2AB-46B5-AC8C-5E6D4341EE32}
+      IID 21
+      NAME 188623006758a6e.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {83F90A01-0B06-4817-946C-4C509615669C}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\188623006758a6e.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 42.14308775411013
+      SNAPOFFS 0
+      LENGTH 6.20294399192162
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CA885352-8C8B-4583-B53B-94C374991F25}
+      IID 21
+      NAME 188623006758a6e.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.14308775411013
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {961D0009-DE8B-4C78-8341-2D993D94F87A}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\sounds\ghdrfg\188623006758a6e.mp3" 1
+      >
+    >
+  >
+  <TRACK {06DB6A0B-8C01-490C-8475-16C38675A5FA}
+    NAME freesound_community-tavern_ambience_inside_laughter-73008
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {06DB6A0B-8C01-490C-8475-16C38675A5FA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {4AA04F2A-0835-4ADB-8434-834B46970CEF}
+    NAME 61397104_group-of-men-singing-in-tavern_by_artyfact-sfx_preview
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4AA04F2A-0835-4ADB-8434-834B46970CEF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {7E536597-CFD7-4D85-AA9D-71B858F3A7B3}
+    NAME Wind
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.01072520204895 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7E536597-CFD7-4D85-AA9D-71B858F3A7B3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 12.20215180702507
+      SNAPOFFS 0
+      LENGTH 12.60097916666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BF4CCF1F-E2D0-4513-BE9F-C07D52C3409A}
+      IID 158
+      NAME dragon-studio-cemetery-wind-467488.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6BFB6D79-2D66-4641-A882-471BB8CC1397}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\dragon-studio-cemetery-wind-467488.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 24.80313097371254
+      SNAPOFFS 0
+      LENGTH 13.36897916666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1908F9D3-8268-407E-AC31-AF2349F50058}
+      IID 159
+      NAME dragon-studio-harsh-wind-515272.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5792C73A-EF04-4C03-80E0-44DCE2A1D271}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\dragon-studio-harsh-wind-515272.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 38.17211014044005
+      SNAPOFFS 0
+      LENGTH 18.38497916666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6F79E03E-8DEC-4A9F-83FC-1675CA9F375F}
+      IID 160
+      NAME dragon-studio-bitter-cold-wind-482876.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B050BE6E-4BB3-4343-AD92-C957FDB1E302}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\dragon-studio-bitter-cold-wind-482876.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 56.55708930711262
+      SNAPOFFS 0
+      LENGTH 19.00897916666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2D36B86D-C650-4FBD-8899-896958CC8875}
+      IID 161
+      NAME dragon-studio-winter-wind-402331.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {64C89260-A0BE-48F4-BAFC-F0D0F5AD6111}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\dragon-studio-winter-wind-402331.mp3" 1
+      >
+    >
+  >
+  <TRACK {F8620814-91AB-412A-A21D-38D7F40DC224}
+    NAME "Forest ambient"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.20516320079248 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F8620814-91AB-412A-A21D-38D7F40DC224}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 12.20215180706758
+      SNAPOFFS 0
+      LENGTH 0.01935636355737
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.01 2.462888 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {E095AF48-31AE-4C34-A6B9-4E6DB302DFE8}
+      IID 162
+      NAME audiopapkin-forest-ambience-296528.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 22.49820174881401
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {12F14C48-EE17-4265-B57D-9804882D6539}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\audiopapkin-forest-ambience-296528.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 12.22150817062495
+      SNAPOFFS 0
+      LENGTH 210.46014645469896
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5D81C9CE-7D16-405D-AC28-2A409F2397BC}
+      IID 165
+      NAME Ambient_Forest_Birds.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E476AE72-0D6E-4BF0-AC52-F20FA69D45B6}
+      <SOURCE FLAC
+        FILE "Ambient_Forest_Birds.flac"
+      >
+    >
+    <ITEM
+      POSITION 222.68165462532392
+      SNAPOFFS 0
+      LENGTH 0.00887936877635
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 2.462888 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {D86C3122-9162-4FED-A0B6-0248B507EF5E}
+      IID 162
+      NAME audiopapkin-forest-ambience-296528.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 22.48932238003758
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FCC9EE3D-6AB0-4D00-955C-B75D315311F1}
+      <SOURCE MP3
+        FILE "C:\Users\vmatviie\Downloads\audiopapkin-forest-ambience-296528.mp3" 1
+      >
+    >
+  >
+  <TRACK {C39C52EC-D544-41C9-A39F-464A0B28001C}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C39C52EC-D544-41C9-A39F-464A0B28001C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+>
