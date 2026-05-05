@@ -2374,6 +2374,7 @@ GameObject:
   - component: {fileID: 613997990}
   - component: {fileID: 613997989}
   - component: {fileID: 613997994}
+  - component: {fileID: 613997995}
   m_Layer: 6
   m_Name: Player
   m_TagString: Player
@@ -2486,8 +2487,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerCamera: {fileID: 237163390}
-  walkSpeed: 6
-  runSpeed: 12
+  walkSpeed: 3
+  runSpeed: 6
   jumpPower: 6
   gravity: 20
   lookSpeed: 3
@@ -2559,6 +2560,41 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nonRigidbodyVelocity: 0
   attenuationObject: {fileID: 0}
+--- !u!114 &613997995
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 613997984}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5662db7a78ed10944a62b27bb1056215, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  footstepsEvent:
+    Guid:
+      Data1: 1235936575
+      Data2: 1314192466
+      Data3: -1663121242
+      Data4: 665639326
+    Path: event:/Footsteps
+  jumpEvent:
+    Guid:
+      Data1: 2045690335
+      Data2: 1195151614
+      Data3: 1002146700
+      Data4: 1872551096
+    Path: event:/jump
+  landEvent:
+    Guid:
+      Data1: 2045690335
+      Data2: 1195151614
+      Data3: 1002146700
+      Data4: 1872551096
+    Path: event:/jump
+  isGrounded: 1
+  isJumping: 1
 --- !u!1 &688602384
 GameObject:
   m_ObjectHideFlags: 0

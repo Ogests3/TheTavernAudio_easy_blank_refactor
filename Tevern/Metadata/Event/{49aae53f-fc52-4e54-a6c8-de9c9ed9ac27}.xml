@@ -57,7 +57,7 @@
 			<destination>{f7bd18d0-7ec5-4719-bcf7-8f2bf2c37a88}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{0ab9370e-8df6-40ff-9784-35a1fe616ef8}</destination>
+			<destination>{a320a1aa-3e20-4df3-9934-fd3bb414fff6}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{7b5cf802-b054-41f0-b3a5-b2418c970e8c}" />
@@ -177,7 +177,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{8d7e3d1b-7086-447d-92dd-7e169a25cb43}">
 		<property name="name">
-			<value>Rock</value>
+			<value>Stone</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{04a43cf8-8313-40ad-8a82-39128f95afad}</destination>

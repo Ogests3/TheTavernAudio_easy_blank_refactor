@@ -53,7 +53,7 @@
 			<destination>{8fd26984-9c39-4ff9-b01c-3b03774a8093}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{0ab9370e-8df6-40ff-9784-35a1fe616ef8}</destination>
+			<destination>{bd08f318-daba-435f-a206-bc746554a142}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{668e43e6-611c-432e-85b8-11ecd0a85048}" />
@@ -93,13 +93,13 @@
 	<object class="MixerBusPanner" id="{8fd26984-9c39-4ff9-b01c-3b03774a8093}" />
 	<object class="SingleSound" id="{a3eae7b9-31c5-4c34-b543-742782f466a9}">
 		<property name="length">
-			<value>187.7721768707483</value>
+			<value>184</value>
 		</property>
 		<property name="startOffset">
-			<value>3.5</value>
+			<value>10</value>
 		</property>
-		<property name="pitch">
-			<value>-0.300000012</value>
+		<property name="looping">
+			<value>true</value>
 		</property>
 		<relationship name="modulators">
 			<destination>{f7301bd9-8035-4fab-8ba4-3a8310172d72}</destination>
@@ -130,7 +130,7 @@
 			<value>0</value>
 		</property>
 		<property name="length">
-			<value>187.7721768707483</value>
+			<value>184</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{4b3cf6eb-01df-4bcb-8f4a-12f20ed6b432}</destination>
@@ -152,7 +152,7 @@
 			<value>startOffset</value>
 		</property>
 		<property name="amount">
-			<value>33.5</value>
+			<value>40</value>
 		</property>
 	</object>
 	<object class="MixerBusEffectChain" id="{428cfd06-e8c0-4fcd-86d4-c174523e04c2}">

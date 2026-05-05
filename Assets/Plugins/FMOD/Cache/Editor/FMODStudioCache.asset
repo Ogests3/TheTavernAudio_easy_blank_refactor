@@ -15,10 +15,10 @@ MonoBehaviour:
   Path: Tevern/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639123956338612149
+  lastModified: 639136062662016520
   FileSizes:
-  - Name: 
-    Value: 1226
+  - Name: Desktop
+    Value: 1346
   Exists: 1
 --- !u!114 &-8445574860756452645
 MonoBehaviour:
@@ -44,7 +44,7 @@ MonoBehaviour:
   IsGlobal: 0
   Labels:
   - Wood
-  - Rock
+  - Stone
   Exists: 1
 --- !u!114 &-5538384817153310589
 MonoBehaviour:
@@ -73,32 +73,6 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 271000
---- !u!114 &-3010168734075580000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/jump/Parameter 1
-  m_EditorClassIdentifier: 
-  Name: Parameter 1
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 204429673
-    data2: 2894040319
-  Type: 2
-  IsGlobal: 0
-  Labels:
-  - Wood
-  - Rock
-  Exists: 1
 --- !u!114 &-2770765840682396763
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -152,7 +126,7 @@ MonoBehaviour:
   Parameters: []
   MinDistance: 1
   MaxDistance: 20
-  Length: 187772
+  Length: 184000
 --- !u!114 &-1923030839567054113
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -266,7 +240,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: -8661150568216298762}
   cacheVersion: 131859
-  cacheTime: 639123956338612149
+  cacheTime: 639136062662016520
   SerializableEventsDict:
   - key: event:/Wind
     index: 0
@@ -308,7 +282,7 @@ MonoBehaviour:
   Is3D: 0
   IsOneShot: 1
   Parameters:
-  - {fileID: -3010168734075580000}
+  - {fileID: 8137964872988056094}
   MinDistance: 1
   MaxDistance: 20
   Length: 510
@@ -327,8 +301,10 @@ MonoBehaviour:
   Path: Tevern/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639123956338590159
-  FileSizes: []
+  lastModified: 639136062662006469
+  FileSizes:
+  - Name: Desktop
+    Value: 11693600
   Exists: 1
 --- !u!114 &5389585406999774888
 MonoBehaviour:
@@ -382,4 +358,30 @@ MonoBehaviour:
   Labels:
   - Open
   - Close
+  Exists: 1
+--- !u!114 &8137964872988056094
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/jump/PFootsteps-3
+  m_EditorClassIdentifier: 
+  Name: PFootsteps-3
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1580419244
+    data2: 471155613
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Wood
+  - Stone
   Exists: 1
