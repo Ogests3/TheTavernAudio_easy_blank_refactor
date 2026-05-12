@@ -15,10 +15,10 @@ MonoBehaviour:
   Path: Tevern/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639142038934384576
+  lastModified: 639142117388906325
   FileSizes:
   - Name: Desktop
-    Value: 1442
+    Value: 1624
   Exists: 1
 --- !u!114 &-8626368117987051256
 MonoBehaviour:
@@ -269,7 +269,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: -8661150568216298762}
   cacheVersion: 131859
-  cacheTime: 639142038934384576
+  cacheTime: 639142117388906325
   SerializableEventsDict:
   - key: event:/Wind
     index: 0
@@ -334,10 +334,10 @@ MonoBehaviour:
   Path: Tevern/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639142038934364525
+  lastModified: 639142117388885842
   FileSizes:
   - Name: Desktop
-    Value: 11694752
+    Value: 11695488
   Exists: 1
 --- !u!114 &2393918857695091564
 MonoBehaviour:

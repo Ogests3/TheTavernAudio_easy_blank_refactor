@@ -34,7 +34,7 @@ public class Outside_foot_switch : MonoBehaviour
     {
         RaycastHit hit;
         // Wykonuje raycast, aby sprawdzić, co znajduje się pod graczem.
-        if (Physics.Raycast(transform.position, Vector3.down, out hit, distToGround + 0.5f))
+        if (Physics.Raycast(transform.position, Vector3.down, out hit, distToGround + 0.7f))
         {
             string tag = hit.collider.tag;
             
